@@ -2,6 +2,12 @@
 #include <time.h>
 #include <stdio.h>
 
+/**
+ * main- prints a number and states if the number is p
+ * ositive, negative or zero.
+ * Return: 0
+ *
+ */
 int main(void)
 {
 	int n;
